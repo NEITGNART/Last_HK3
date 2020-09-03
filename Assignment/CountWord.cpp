@@ -1,5 +1,48 @@
 ﻿#include <sstream>
+#include <math.h>
+#include <string.h>
+#include <algorithm>
+#include <bitset>
+#include <fstream>
+#include <unordered_map>
+#include <cstdio>
+#include <iostream>
+#include <list>
+#include <set>
+#include <stack>
+#include <string>
+#include <vector>
+#include <assert.h>
+#include <complex>
+using namespace std;
+typedef string str;
+typedef long long ll;
+typedef long double ld;
+typedef long long ll;
+typedef pair<int, int> pi;
 
+#define mp make_pair
+#define pb push_back
+#define sz(x) (int)x.size()
+#define f first
+#define s second
+#define lb lower_bound
+#define ub upper_bound
+#define trav(a, x) for (auto &a : x)
+#define F0R(i, a) for (int i = 0; i < (a); i++)
+#define FOR(i, a, b) for (int i = (a); i < (b); i++)
+#define FORd(i, a, b) for (int i = (b)-1; i >= (a); i--)
+#define F0Rd(i, a) for (int i = (a)-1; i >= 0; i--)
+#define MAX(a, b) ((a) > (b) ? (a) : (b))
+#define MIN(a, b) ((a) < (b) ? (a) : (b))
+
+
+int main(void) {
+	
+	
+
+	return 0;
+}
 #include "MyString.h"
 
 #define MAP map<string, int>
